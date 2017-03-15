@@ -1,0 +1,16 @@
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/lib/math/CMakeFiles/edit_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/lib/math/CMakeFiles/rebuild_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/lib/math/include/CMakeFiles/edit_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/lib/math/include/CMakeFiles/rebuild_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/lib/math/src/CMakeFiles/edit_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/lib/math/src/CMakeFiles/rebuild_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/lib/math/src/CMakeFiles/mymath.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/include/CMakeFiles/edit_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/include/CMakeFiles/rebuild_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/sergiosvieira/CLionProjects/untitled/cmake-build-debug/src/CMakeFiles/sample.dir

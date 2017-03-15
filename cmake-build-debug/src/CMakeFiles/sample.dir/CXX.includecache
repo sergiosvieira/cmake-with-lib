@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/../lib/math/include/mymath.h
+
+/Users/sergiosvieira/CLionProjects/untitled/src/main.cpp
+iostream
+-
+mymath.h
+/Users/sergiosvieira/CLionProjects/untitled/src/mymath.h
+
