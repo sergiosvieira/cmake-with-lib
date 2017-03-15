@@ -1,4 +1,5 @@
 # Compiled Object files
+cmake-build-debug
 *.slo
 *.lo
 *.o
